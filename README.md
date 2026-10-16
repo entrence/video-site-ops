@@ -1,4 +1,4 @@
-# bilibili
+# 某站运营skill
 
 B站（哔哩哔哩）全功能 Hermes skill：Cookie 二维码登录、视频下载、评论发布、自动评论机器人、私信发送、B站日报PPT、弹幕爬取、WBI 搜索。由 6 个独立 skill 合并而成（6合1）。
 
@@ -16,7 +16,7 @@ B站（哔哩哔哩）全功能 Hermes skill：Cookie 二维码登录、视频�
 ## Install
 
 ```
-hermes skills install https://raw.githubusercontent.com/entrence/bilibili/main/SKILL.md
+hermes skills install https://raw.githubusercontent.com/entrence/video-site-ops/main/SKILL.md
 ```
 
 > 如果 raw.githubusercontent.com 超时，先克隆仓库再把 SKILL.md 放到 `~/.hermes/skills/bilibili/`。
